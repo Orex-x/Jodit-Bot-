@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DEHNnuxhzOP6q2VNcxHcGihxT9+JK6Ab/nb1Sr2QB7yqMIPLOfeWfqMf6q0rO/L32HTErWMBKfcU3LzhSGdZ1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dana\\RiderProjects\\Jodit-Bot-\\Jodit-Bot-\\Jodit-Bot-.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dana\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.2\\microsoft.aspnetcore.jsonpatch.6.0.2.nupkg.sha512",
+    "C:\\Users\\dana\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.2\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.2.nupkg.sha512",
+    "C:\\Users\\dana\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\dana\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\dana\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\dana\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
