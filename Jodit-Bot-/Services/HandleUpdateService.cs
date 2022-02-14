@@ -148,7 +148,7 @@ namespace Jodit_Bot_.Services
             static async Task<Message> Usage(ITelegramBotClient bot, Message message)
             {
                 
-                if (message.ReplyToMessage != null && message.ReplyToMessage.Text.Contains("Enter key"))
+                if (message.ReplyToMessage != null && message.ReplyToMessage.Text.Contains("Enter the key as a reply message"))
                 {
                     var key = message.Text;
                     
